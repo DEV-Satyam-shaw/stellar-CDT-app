@@ -1,5 +1,51 @@
 # stellar-CDT-app
 a stellar smart contract project
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e74b2a4-c9b7-4082-be09-c808bb2d9cf0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/838c23e3-5d43-4861-9b54-3aa489fb1510" />
+<img width="1372" height="729" alt="image" src="https://github.com/user-attachments/assets/97fc4622-60a1-48f8-a375-945530d72708" />
 
+🌐 Digital Identity Manager DApp
+
+A decentralized application (DApp) that allows users to securely create, manage, and verify their digital identity on the blockchain. This project ensures privacy, ownership, and tamper-proof identity management using smart contracts.
+
+📌 Project Description
+
+The Digital Identity Manager is a blockchain-based solution designed to give users full control over their digital identity. Instead of relying on centralized authorities, users can store and manage identity-related information securely on-chain.
+
+This DApp eliminates risks like data breaches, identity theft, and unauthorized access by leveraging decentralized technology.
+
+🚀 What It Does
+
+🆔 Create a unique digital identity
+
+🔐 Store identity data securely on blockchain
+
+✏️ Update identity information anytime
+
+✅ Verify identity without third-party involvement
+
+🔍 Retrieve identity details instantly
+
+✨ Features
+
+Decentralized identity storage
+
+Smart contract-based authentication
+
+User-controlled data privacy
+
+Tamper-proof records
+
+Easy-to-use frontend interface
+
+Wallet integration (MetaMask / compatible wallets)
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Blockchain: Stellar Soroban / Smart Contracts
+
+Wallet Integration: Compatible Web3 Wallet
+
+Deployment: Morph / Cloud environment
 
