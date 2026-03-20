@@ -1,7 +1,5 @@
 # stellar-CDT-app
 a stellar smart contract project
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/838c23e3-5d43-4861-9b54-3aa489fb1510" />
-<img width="1372" height="729" alt="image" src="https://github.com/user-attachments/assets/97fc4622-60a1-48f8-a375-945530d72708" />
 
 🌐 Digital Identity Manager DApp
 
@@ -48,4 +46,55 @@ Blockchain: Stellar Soroban / Smart Contracts
 Wallet Integration: Compatible Web3 Wallet
 
 Deployment: Morph / Cloud environment
+
+🧪 How to Use
+
+Connect your wallet
+
+Create your digital identity
+
+Update or manage your data
+
+Verify identity when needed
+
+🔒 Security Highlights
+
+No centralized data storage
+
+Immutable blockchain records
+
+User-only access control
+
+Encrypted transaction flow
+
+📸 Screenshots (Optional)
+
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/fd0d3bd7-2ec2-4580-940b-4a512b31bda1" />
+<img width="1372" height="729" alt="Screenshot 2026-03-20 150241" src="https://github.com/user-attachments/assets/5ec38625-86fd-4c71-bf5e-b10aa106fc4a" />
+
+
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+💡 Future Improvements
+
+Multi-chain support
+
+Biometric verification integration
+
+NFT-based identity representation
+
+Mobile app version
+
+🙌 Acknowledgements
+
+Stellar & Soroban ecosystem
+
+Web3 developer community
 
